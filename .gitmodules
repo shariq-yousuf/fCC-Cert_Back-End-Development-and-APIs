@@ -1,0 +1,3 @@
+[submodule "timestamp"]
+	path = timestamp
+	url = https://github.com/shariq-yousuf/timestamp.git
