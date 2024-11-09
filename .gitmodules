@@ -1,3 +1,6 @@
 [submodule "timestamp"]
 	path = timestamp
 	url = https://github.com/shariq-yousuf/timestamp.git
+[submodule "header-parser"]
+	path = header-parser
+	url = https://github.com/shariq-yousuf/header-parser.git
