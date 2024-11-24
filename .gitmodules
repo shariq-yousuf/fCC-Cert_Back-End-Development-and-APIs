@@ -7,3 +7,6 @@
 [submodule "url-shortener"]
 	path = url-shortener
 	url = https://github.com/shariq-yousuf/url-shortener
+[submodule "exercise-tracker"]
+	path = exercise-tracker
+	url = https://github.com/shariq-yousuf/exercise-tracker
