@@ -10,3 +10,6 @@
 [submodule "exercise-tracker"]
 	path = exercise-tracker
 	url = https://github.com/shariq-yousuf/exercise-tracker
+[submodule "file-metadata"]
+	path = file-metadata
+	url = https://github.com/shariq-yousuf/file-metadata.git
