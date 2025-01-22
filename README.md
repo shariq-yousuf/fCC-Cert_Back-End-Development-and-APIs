@@ -29,6 +29,7 @@ This repository contains the five required projects for the FreeCodeCamp Back En
 
 - Node.js
 - Express.js
-- MongoDB (or other suitable database)
-- Mongoose (for MongoDB interaction)
+- MongoDB
+- Mongoose
+- Multer
 - JavaScript (ES6+)
